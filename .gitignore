@@ -8,3 +8,6 @@ build
 .settings/org.eclipse.buildship.core.prefs
 .vscode/launch.test.json
 
+/bin/
+/out/
+/.vscode
