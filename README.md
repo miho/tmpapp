@@ -1,2 +1,7 @@
 # tmpapp
-just a test
+
+just a test application...
+
+## how to build
+
+...
